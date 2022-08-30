@@ -1,5 +1,13 @@
+# Alessandro Talmi
+TODO
+
+## GitHub stats
+
+<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tale152&theme=monokai&title=MultiLanguage,Commits,PullRequest,Repositories,Followers&colum=-1&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 <!--
 **Tale152/Tale152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
