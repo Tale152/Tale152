@@ -1,11 +1,25 @@
-# Alessandro Talmi
+# About me
 TODO
 
-## Skills
-### <strong>Web development</strong>
+# Skills
+
+## Project management
+TODO
+
+## Software engineering
+TODO
+
+## Distributed systems
+TODO
+
+## Parallel and concurrent computing
+TODO
+
+## Web development
 TODO 
+
 <details>
-    <summary><u><strong>My Tools</strong></u></summary>
+    <summary><strong>My Tools</strong></summary>
     <div>
         <strong>Languages</strong>
         <ul>
@@ -68,7 +82,7 @@ TODO
     </div>
 </details>
 <details>
-    <summary><u><strong>My Projects</strong></u></summary>
+    <summary><strong>My Projects</strong></summary>
     <ul>
         <li><strong><a href="https://github.com/Tale152/express-server-template">Express server template</a></strong>
         </br>A template repository for a Typescript Express server that follows the Clean Architecture pattern.
