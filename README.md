@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://thumbs.gfycat.com/FemaleLimitedEland-size_restricted.gif" width="200px" style="border:solid #30363D;border-radius:5px">
+<img src="./img/pacman.gif" width="200px">
 </div>
 
 # Hi! I'm Alessandro Talmi! 👨‍💻
