@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://thumbs.gfycat.com/FemaleLimitedEland-size_restricted.gif" width="200px" style="border:solid #30363D;border-radius:5px">
+</div>
+
 # Hi! I'm Alessandro Talmi! 👨‍💻
 I'm an Italian Software Engineer born in 1997. I'm currently attending my M.Sc. in Engineering and Computer Science at Bologna University (Cesena campus), planning to graduate in December 2022.  
 
