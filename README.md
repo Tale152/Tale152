@@ -6,7 +6,7 @@ TODO
 More information about me (including my CV) are available on [my personal web page](https://tale152.github.io/Tale152).
 
 ## Contact me
-Reach me at alessandro.talmi@gmail.com or click on one of the badges below:
+Reach me on my mail alessandro.talmi@gmail.com or click on one of the badges below to use your favorite social:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-talmi-83568b132/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aletalmi)
