@@ -7,6 +7,12 @@ I'm an Italian Software Engineer born in 1997. I'm currently attending my M.Sc. 
 
 More information about me (including my CV) are available on [my personal web page](https://tale152.github.io/Tale152).
 
+## Work profiles
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tale152)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/Tale97/)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Tale152)
+[![DockerHub](https://img.shields.io/badge/Docker_Hub-100000?style=for-the-badge&logo=Docker&logoColor=white&labelColor=0db7ed&color=0db7ed)](https://hub.docker.com/u/alessandrotalmi)
+
 ## Contact me
 Reach me on my mail alessandro.talmi@gmail.com or click on one of the badges below to use your favorite social:
 
