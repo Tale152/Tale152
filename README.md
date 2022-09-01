@@ -1,8 +1,6 @@
 # Hi! I'm Alessandro Talmi! 👨‍💻
+I'm an Italian Software Engineer born in 1997. I'm currently attending my M.Sc. in Engineering and Computer Science at Bologna University (Cesena campus), planning to graduate in December 2022.  
 
-
-
-TODO  
 More information about me (including my CV) are available on [my personal web page](https://tale152.github.io/Tale152).
 
 ## Contact me
