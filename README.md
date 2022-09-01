@@ -1,5 +1,20 @@
-## GitHub stats
+# Hi! I'm Alessandro Talmi! 👨‍💻
 
+
+
+TODO  
+More information about me (including my CV) are available on [my personal web page](https://tale152.github.io/Tale152).
+
+## Contact me
+Reach me at alessandro.talmi@gmail.com or click on one of the badges below:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-talmi-83568b132/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aletalmi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/393336137981)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ale.talmi/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/alessandro.talmi/)
+
+## GitHub stats
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tale152&theme=monokai&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Stars&colum=1&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
