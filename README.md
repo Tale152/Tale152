@@ -5,7 +5,7 @@
 # Hi! I'm Alessandro Talmi! 👨‍💻
 I'm an Italian Software Engineer born in 1997. I'm currently attending my M.Sc. in Engineering and Computer Science at Bologna University (Cesena campus), planning to graduate in December 2022.  
 
-More information about me (including my CV) are available on [my personal web page](https://tale152.github.io/Tale152).
+More information about me are available in [my resume](https://drive.google.com/file/d/1EClO9C7CczrIoYQ17qDU5AXPG-S8Qr5B/view).
 
 ## Work profiles
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tale152)
