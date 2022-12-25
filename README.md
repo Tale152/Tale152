@@ -2,7 +2,7 @@
 <img src="./img/pacman.gif" width="200px">
 </div>
 
-# Hi! I'm Alessandro Talmi! 👨‍💻
+# Hi! I'm Alessandro Talmi! 👋
 <div align="center">
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tale152&branding=false&badges=0" width="400px">
 
@@ -13,26 +13,22 @@
 
 </div>
 
-- [About me](#about-me)
-- [Resume and info](#resume-and-info)
-- [Contact me](#contact-me)
-- [GitHub stats](#github-stats)
-
-## About me
+## 👨‍💻 About me
 I am an __aspiring Software Architect__ with a __Master's degree in Engineering and Computer Science__ (University of Bologna, Cesena campus) and one year of working experience as a whole, working as a Full Stack Developer.
 
 My strongest areas of expertise are: __Software Architectures and Modeling__, __Backend Programming__, __Distributed Systems__, __Big Data__, __DevOps__, __Embedded Programming (IoT)__, and __Project Management__.
 
 I also studied the following disciplines: __Programming Paradigms and Patterns__, __Parallel Computing__, __Mobile Programming__, __Web Programming__, __Cybersecurity__, __Databases__, and __Machine Learning__.
 
-## Resume and info
+## 📄 Resume and info
 Click [here](https://drive.google.com/file/d/1EClO9C7CczrIoYQ17qDU5AXPG-S8Qr5B/view) to get the latest version of my resume.
 
 Check my profiles for more info:
-- [LinkedIn profile](https://www.linkedin.com/in/alessandro-talmi)
-- [CodersRank profile](https://profile.codersrank.io/user/tale152)
 
-## Contact me
+[![LinkedIn](https://a11ybadges.com/badge?logo=linkedin)](https://www.linkedin.com/in/alessandro-talmi)
+[![CodersRank](https://a11ybadges.com/badge?logo=codersrank)](https://profile.codersrank.io/user/tale152)
+
+## ✉️ Contact me
 Reach me on my mail alessandro.talmi@gmail.com or click on one of the badges below to use your favorite social:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-talmi)
@@ -41,7 +37,7 @@ Reach me on my mail alessandro.talmi@gmail.com or click on one of the badges bel
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ale.talmi/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/alessandro.talmi/)
 
-## GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tale152&theme=darkhub&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Stars&colum=1&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
