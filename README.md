@@ -4,7 +4,7 @@
 
 # Hi! I'm Alessandro Talmi! 👋
 <div align="center">
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tale152&branding=false&badges=0" width="400px">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tale152&branding=false" width="400px">
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tale152)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/Tale97/)
@@ -21,12 +21,10 @@ My strongest areas of expertise are: __Software Architectures and Modeling__, __
 I also studied the following disciplines: __Programming Paradigms and Patterns__, __Parallel Computing__, __Mobile Programming__, __Web Programming__, __Cybersecurity__, __Databases__, and __Machine Learning__.
 
 ## 📄 Resume and info
-Click [here](https://drive.google.com/file/d/1EClO9C7CczrIoYQ17qDU5AXPG-S8Qr5B/view) to get the latest version of my resume.
+Click ➡️ [here](https://drive.google.com/file/d/1EClO9C7CczrIoYQ17qDU5AXPG-S8Qr5B/view) ⬅️ to get the latest version of my resume.
 
-Check my profiles for more info:
-
-[![LinkedIn](https://a11ybadges.com/badge?logo=linkedin)](https://www.linkedin.com/in/alessandro-talmi)
-[![CodersRank](https://a11ybadges.com/badge?logo=codersrank)](https://profile.codersrank.io/user/tale152)
+- [LinkedIn](https://www.linkedin.com/in/alessandro-talmi)
+- [CodersRank](https://profile.codersrank.io/user/tale152)
 
 ## ✉️ Contact me
 Reach me on my mail alessandro.talmi@gmail.com or click on one of the badges below to use your favorite social:
