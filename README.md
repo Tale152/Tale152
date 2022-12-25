@@ -7,6 +7,10 @@ I'm an Italian Software Engineer born in 1997. I'm currently attending my M.Sc. 
 
 More information about me are available in [my resume](https://drive.google.com/file/d/1EClO9C7CczrIoYQ17qDU5AXPG-S8Qr5B/view).
 
+<div align="center">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=tale152">
+</div>
+
 ## Work profiles
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tale152)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/Tale97/)
@@ -22,6 +26,14 @@ Reach me on my mail alessandro.talmi@gmail.com or click on one of the badges bel
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ale.talmi/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/alessandro.talmi/)
 
+## CodersRank stats
+<div align="center">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tale152">
+</div>
+<div align="center">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tale152">
+</div>
+
 ## GitHub stats
 <div align="center">
 
@@ -30,6 +42,7 @@ Reach me on my mail alessandro.talmi@gmail.com or click on one of the badges bel
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tale152&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 <!--
 **Tale152/Tale152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
